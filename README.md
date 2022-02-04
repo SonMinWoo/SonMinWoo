@@ -1,8 +1,8 @@
 # Minwoo Son
 
 ## My stat
-![Minwoo's stat](https://github-readme-stats.vercel.app/api?username=SonMinWoo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonMinWoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Minwoo's stat](https://github-readme-stats.vercel.app/api?username=SonMinWoo&show_icons=true&hide_border=true&include_all_commits=true)](https://github.com/SonMinWoo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonMinWoo&layout=compact)](https://github.com/SonMinWoo)
 
 ## Languages I interested in...
 ![python](https://img.shields.io/badge/language-python-yellow)
